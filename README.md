@@ -5,7 +5,7 @@
 ## Sobre mí
 Soy un apasionado de la tecnología y el desarrollo de software. Actualmente soy estudiante de cuarto semestre de la carrera de Ingeniería en Ciencias de la Computación en la Universidad EPN. Mis áreas de interés incluyen el desarrollo de software, redes de computadoras y el aprendizaje de idiomas.
 
-![Foto Portafolio Github](FotoPortafolioGithub.png)
+![Foto Portafolio Github](FotoGithub.png)
 
 ## Habilidades
 - Lenguajes de programación: C++, Java, Python (en proceso de aprendizaje).
