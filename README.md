@@ -10,19 +10,21 @@ Soy un apasionado de la tecnología y el desarrollo de software. Actualmente soy
 ## Habilidades
 - Lenguajes de programación: C++, Java, Python (en proceso de aprendizaje).
 - Redes de computadoras: Fundamentos de redes.
-- Idiomas: Inglés Academic 1 certificado por el Centro de Capacitación Continua EPN (me encuentro mejorando mi nivel de inglés).
+- Idiomas: Inglés Academic 1 certificado por el Centro de Capacitación Continua EPN. Certificado de Inglés: [Enlace al Certificado](https://drive.google.com/file/d/1wwSCTSQqXVUCyB3Vbd5aCGXAhM8w4qoq/view?usp=sharing)
 
 ## Proyectos destacados
 Aquí hay algunos proyectos en los que he trabajado recientemente:
 
-1. **Simulador de interconexión de redes de sucursales de hoteles de Disney**:
-   Este proyecto, realizado en grupo, consistió en la simulación en Packet Tracer de la interconexión de dos redes de dos sucursales de hoteles de Disney. Contribuí al diseño y configuración de la red, así como a la implementación de soluciones para garantizar la conectividad y seguridad de la red.
+1. **Implementación de una red para un hotel temático de Disney con dos sucursales**:
+   Este proyecto, realizado en grupo, consistió en la implementación de una red en Packet Tracer para un hotel temático de Disney con dos sucursales. Contribuí al diseño y configuración de la red, así como a la interconexión de las sucursales para garantizar una comunicación fluida y segura entre ambas sedes.
+   [Enlace al informe del proyecto](https://drive.google.com/file/d/1OIXNVtFKbT9qtU4WNRiKfsloTUz-fWMu/view?usp=sharing)
 
-2. **Contador de estudiantes aprobados y reprobados en lenguaje MIPS Assembler**:
+3. **Contador de estudiantes aprobados y reprobados en lenguaje MIPS Assembler**:
    Desarrollé un código en lenguaje MIPS Assembler que, dado un número de estudiantes y sus calificaciones, determinaba el número de estudiantes aprobados y reprobados. Este proyecto me permitió profundizar mis conocimientos en lenguajes de bajo nivel y en la manipulación de datos.
+   [Enlace al informe del proyecto](enlace/al/informe/proyecto2)
 
 ## Contacto
-¡Me encantaría conectar contigo! Puedes encontrarme en [mi perfil de GitHub](enlace/a/tu/perfil) o en mis redes sociales.
+¡Me encantaría conectar contigo! Puedes encontrarme en [mi perfil de GitHub](https://github.com/anthonypgq) o en mis redes sociales.
 
 ## Intereses personales
 Aparte de la tecnología, soy un apasionado del fútbol, tanto verlo como jugarlo. También disfruto de descubrir nueva música y conocer nuevos lugares.
