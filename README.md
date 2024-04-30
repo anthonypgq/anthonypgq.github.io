@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: #f0f0f0; 
+    background-color: #555555; 
   }
 </style>
 # ¡Hola! 👋 Soy Anthony Goyes
