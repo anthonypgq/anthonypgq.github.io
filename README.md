@@ -1,6 +1,6 @@
 <style>
   body {
-    background-color: #555555; 
+    background-color: #f0f0f0; 
   }
 </style>
 
@@ -10,12 +10,6 @@
     height: 150px; /* Ajusta la altura de la imagen */
     border-radius: 50%; /* Esto hace que la imagen sea circular */
     overflow: hidden; /* Esto oculta cualquier parte de la imagen que sobresalga del círculo */
-  }
-</style>
-
-<style>
-  body {
-    color: white; /* Cambia el color del texto a blanco */
   }
 </style>
 
