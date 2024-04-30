@@ -41,7 +41,7 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
    [Enlace al informe del proyecto](https://drive.google.com/file/d/1IGKHHFoKe2tfWKuxKIqmzTGUkRPcFQ_v/view?usp=sharing)
 
 ## Contacto
-¡Me encantaría conectar contigo! Puedes encontrarme en [mi perfil de GitHub](https://github.com/anthonypgq) o en mis redes sociales.
+Puedes encontrarme en [mi perfil de GitHub](https://github.com/anthonypgq).
 
 ## Intereses personales
 Aparte de la tecnología, soy un apasionado del fútbol, tanto verlo como jugarlo. También disfruto de descubrir nueva música y conocer nuevos lugares.
