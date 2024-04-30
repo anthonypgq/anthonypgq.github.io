@@ -21,7 +21,7 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
 
 3. **Contador de estudiantes aprobados y reprobados en lenguaje MIPS Assembler**:
    Desarrollé un código en lenguaje MIPS Assembler que, dado un número de estudiantes y sus calificaciones, determinaba el número de estudiantes aprobados y reprobados. Este proyecto me permitió profundizar mis conocimientos en lenguajes de bajo nivel y en la manipulación de datos.
-   [Enlace al informe del proyecto](enlace/al/informe/proyecto2)
+   [Enlace al informe del proyecto](https://drive.google.com/file/d/1IGKHHFoKe2tfWKuxKIqmzTGUkRPcFQ_v/view?usp=sharing)
 
 ## Contacto
 ¡Me encantaría conectar contigo! Puedes encontrarme en [mi perfil de GitHub](https://github.com/anthonypgq) o en mis redes sociales.
