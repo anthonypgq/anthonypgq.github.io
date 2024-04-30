@@ -25,7 +25,7 @@ Soy un apasionado de la tecnología y el desarrollo de software. Actualmente soy
 </div>
 
 ## Habilidades
-- Lenguajes de programación: C++, Java, Python (en proceso de aprendizaje).
+- Lenguajes de programación: C++ y Java.
 - Redes de computadoras: Fundamentos de redes.
 - Idiomas: Inglés Academic 1 certificado por el Centro de Capacitación Continua EPN. Certificado de Inglés: [Enlace al Certificado](https://drive.google.com/file/d/1wwSCTSQqXVUCyB3Vbd5aCGXAhM8w4qoq/view?usp=sharing)
 
