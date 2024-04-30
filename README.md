@@ -2,6 +2,9 @@
   body {
     background-color: #555555; 
   }
+</style>
+
+<style>
     .imagen-circular {
     width: 150px; /* Ajusta el ancho de la imagen */
     height: 150px; /* Ajusta la altura de la imagen */
