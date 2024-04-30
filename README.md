@@ -1,3 +1,8 @@
+<style>
+  body {
+    background-color: #f0f0f0; 
+  }
+</style>
 # ¡Hola! 👋 Soy Anthony Goyes
 
 ¡Bienvenido a mi portafolio en GitHub!
