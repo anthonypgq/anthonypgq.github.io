@@ -13,6 +13,12 @@
   }
 </style>
 
+<style>
+  body {
+    color: white; /* Cambia el color del texto a blanco */
+  }
+</style>
+
 # ¡Hola! 👋 Soy Anthony Goyes
 
 ¡Bienvenido a mi portafolio en GitHub!
