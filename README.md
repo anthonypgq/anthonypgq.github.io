@@ -21,7 +21,7 @@
 Soy un apasionado de la tecnología y el desarrollo de software. Actualmente soy estudiante de cuarto semestre de la carrera de Ingeniería en Ciencias de la Computación en la Universidad EPN. Mis áreas de interés incluyen el desarrollo de software, redes de computadoras y el aprendizaje de idiomas.
 
 <div class="imagen-circular">
-  <img src="Imagenn.jpg" alt="Descripción de la imagen">
+  <img src="ImagenGithub.png" alt="Descripción de la imagen">
 </div>
 
 ## Habilidades
