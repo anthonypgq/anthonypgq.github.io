@@ -40,10 +40,10 @@ Aquí hay algunos proyectos en los que he trabajado recientemente:
    Desarrollé un código en lenguaje MIPS Assembler que, dado un número de estudiantes y sus calificaciones, determinaba el número de estudiantes aprobados y reprobados. Este proyecto me permitió profundizar mis conocimientos en lenguajes de bajo nivel y en la manipulación de datos.
    [Enlace al informe del proyecto](https://drive.google.com/file/d/1IGKHHFoKe2tfWKuxKIqmzTGUkRPcFQ_v/view?usp=sharing)
 
-## Contacto
-Puedes encontrarme en [mi perfil de GitHub](https://github.com/anthonypgq).
-
 ## Intereses personales
 Aparte de la tecnología, soy un apasionado del fútbol, tanto verlo como jugarlo. También disfruto de descubrir nueva música y conocer nuevos lugares.
+
+## Contacto
+Puedes encontrarme en [mi perfil de GitHub](https://github.com/anthonypgq).
 
 ¡Gracias por visitar mi portafolio!
