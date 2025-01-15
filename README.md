@@ -191,7 +191,8 @@
             <li>
                 <strong>Implementación de una red para un hotel temático de Disney con dos sucursales</strong>
                 <p>
-                    Proyecto realizado en grupo utilizando Packet Tracer. <br>
+                    - Este proyecto, realizado en grupo, consistió en la implementación de una red en Packet Tracer para un hotel temático de Disney con dos sucursales.
+                    - Contribuí al diseño y configuración de la red, así como a la interconexión de las sucursales para garantizar una comunicación fluida y segura entre ambas sedes. <br>
                     <a href="https://drive.google.com/file/d/1OIXNVtFKbT9qtU4WNRiKfsloTUz-fWMu/view?usp=sharing" class="button">Ver informe</a>
                 </p>
             </li>
